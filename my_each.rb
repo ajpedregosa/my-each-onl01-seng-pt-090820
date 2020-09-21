@@ -16,5 +16,5 @@ def my_each(collection)
 end
 
 my_each(collection) do |i|
-  return i
+  i
 end
